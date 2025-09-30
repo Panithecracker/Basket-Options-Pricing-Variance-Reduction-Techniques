@@ -9,5 +9,4 @@ For detailed problem statements, derivations, and complete solutions, please ref
 
 <img width="1687" height="865" alt="PezzirelliVsMonteCarloEfficiency" src="https://github.com/user-attachments/assets/d05e847b-9dff-4cee-9fa7-09f8d448d150" />
 <img width="875" height="656" alt="results_table" src="https://github.com/user-attachments/assets/274e1f7b-2a55-4568-a979-c99f3f4020cd" />
-
 ![barriererror](https://github.com/user-attachments/assets/d85cb536-ca74-4afd-9d75-25a13dac6b31)
